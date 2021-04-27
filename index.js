@@ -1,12 +1,12 @@
 const puppeteer = require('puppeteer');
 
 let myCar = {
-    make: 'jeep',
-    model: 'cherokee',
+    make: 'audi',
+    model: 'a3',
     extraField: '',
     minYear: 1991,
-    maxYear: 1996,
-    minPrice: 1000,
+    maxYear: 2006,
+    minPrice: 500,
     maxPrice: 5000
 }
 
